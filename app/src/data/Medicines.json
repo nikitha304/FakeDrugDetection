@@ -1,0 +1,20 @@
+[
+    {
+        "DrugID":"1",
+        "DrugName":"Paracetamol",
+        "Owner":"0xF97213bac860aBE22696dB18673284507680f0d7",
+        "Quantity":400
+    },
+    {
+        "DrugID":"2",
+        "DrugName":"Pantop",
+        "Owner":"0x2F0477A5ae370dE1466CCD4B010b92a73DA4Bb4E",
+        "Quantity":500
+    },
+    {
+        "DrugID":"3",
+        "DrugName":"Azithromycin",
+        "Owner":"0xF97213bac860aBE22696dB18673284507680f0d7",
+        "Quantity":200
+    }
+]

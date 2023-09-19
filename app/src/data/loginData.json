@@ -1,0 +1,18 @@
+[
+    {
+        "type":"Manufacturer",
+        "userId":[]
+    },
+    {
+        "type":"Distributor",
+        "userId":[]
+    },
+    {
+        "type":"Retailer",
+        "userId":[]
+    },
+    {
+        "type":"Customer",
+        "userId":[]
+    }
+]

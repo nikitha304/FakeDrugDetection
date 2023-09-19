@@ -1,0 +1,32 @@
+[
+    {
+        "PurchaseOrder":1,
+        "Buyer":"0x2E280ffA15BB98BF4393aA67C46c59A53610E680",
+        "Seller":"0xF97213bac860aBE22696dB18673284507680f0d7",
+        "DrugsOrdered":[
+            {
+                "DrugName":"Paracetamol",
+                "Quantity":100
+            },
+            {
+                "DrugName":"Pantop",
+                "Quantity":50
+            }
+        ]
+    },
+    {
+        "PurchaseOrder":2,
+        "Buyer":"0x990e444808aF79a8fD6f386c26eFE13CFd9797e8",
+        "Seller":"0x2F0477A5ae370dE1466CCD4B010b92a73DA4Bb4E",
+        "DrugsOrdered":[
+            {
+                "DrugName":"Pantop",
+                "Quantity":60
+            },
+            {
+                "DrugName":"Azithromycin",
+                "Quantity":50
+            }
+        ]
+    }
+]
